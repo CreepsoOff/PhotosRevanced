@@ -8,5 +8,6 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 [Google Photos]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photos"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-version = "latest"
+arch = "arm-v7a"
+
 
